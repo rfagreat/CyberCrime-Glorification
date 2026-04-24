@@ -174,9 +174,9 @@ If you use this dataset or analysis in your work, please cite:
 @article{cybercrime_glorification_slr_2026,
   title={What's There to Flex? A Systematic Literature Review on the Cultural 
          Glorification of Cybercrime and Youth Radicalisation},
-  author={[Your Name]},
+  author={Faizan Ali, Kashif Ali},
   year={2026},
-  note={Available at: https://github.com/YOUR_USERNAME/cybercrime-glorification-slr}
+  note={Available at: https://github.com/rfagreat/cybercrime-glorification-slr}
 }
 ```
 
